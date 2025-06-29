@@ -1,1 +1,4 @@
 # Project-1
+/*
+ *This project prompted the creation of two clocks a 12-hour and 24-hour that are compiled together. The main problem to solve was getting the clocks to display properly while still being functional. After connecting with my   *professor I was able to compile and get the clocks to pull up, as visual studio is very touchy and does not always work as it should. The boxes for my clocks are off and could be enhanced, but after several tries I could     *not get the boxes to align properly. The main loop was the hardest to write and I overcame this by connecting with my professor to work on it and refine the code and learn some new skills. When working with c++ I will be     *able to use ternary operators as learned with my professor. I added in proper comments and had to include an .h file with two .cpp files.
+/*
